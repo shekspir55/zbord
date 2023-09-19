@@ -12,7 +12,7 @@ export const metadata = {
   // smsPOSTBOX
   title: "🎧️ ZBORD: ջրակայուն ոսկրային հաղորդիչ ականջակալներ",
   description:
-    "Receive SMS from anywhere in the world: Reserve Phone Numbers in 20+ Countries, Including US 🇺🇸, UK 🇬🇧, and EU 🇪🇺. Receive SMS/OTP with a simple flat monthly fee.",
+    "Zգա յուրաքանչյուր հարվածի ռիթմը, առանց բաց թողնելու քեզ շրջապատող  աշխարհը: Եղեք նորարարության գագաթին, լողալով/վազելով առաջ:",
 };
 
 const googleID = process.env.GOOGLE_TAG;
