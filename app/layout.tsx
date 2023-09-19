@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   // smsPOSTBOX
-  title: "📮 SMSInbox: Allow your business go international.",
+  title: "🎧️ ZBORD: ջրակայուն ոսկրային հաղորդիչ ականջակալներ",
   description:
     "Receive SMS from anywhere in the world: Reserve Phone Numbers in 20+ Countries, Including US 🇺🇸, UK 🇬🇧, and EU 🇪🇺. Receive SMS/OTP with a simple flat monthly fee.",
 };
